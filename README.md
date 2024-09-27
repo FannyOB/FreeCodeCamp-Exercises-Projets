@@ -7,3 +7,9 @@ Voici mes solutions aux exercices FreeCodeCamp que je réalise dans le cadre de 
 
 ## Progression
 - [ ] JavaScript Basic Algorithms (en cours)
+- [ ] JavaScript Algorithms and Data - Projects (en cours)
+
+
+## Certifications
+
+- [JavaScript Algorithms and Data Structures](en cours)
