@@ -3,7 +3,7 @@ Mes solutions aux exercices et projets FreeCodeCamp
 
 # FreeCodeCamp Solutions
 
-Voici mes solutions aux exercices FreeCodeCamp que je réalise dans le cadre de ma formation de développeuse front-end. Je me concentre principalement sur le JavaScript, HTML, CSS, et les projets front-end.
+Voici mes solutions aux exercices FreeCodeCamp que je réalise dans le cadre de ma formation de développeuse full-stack. Je me concentre principalement sur le JavaScript, HTML, CSS, et les projets front-end.
 
 ## Mon Profil FreeCodeCamp
 
