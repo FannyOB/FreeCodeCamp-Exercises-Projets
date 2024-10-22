@@ -27,5 +27,11 @@
         }
     }
 
-    Changer la propriété prototype en objet,
+ * Changer la propriété prototype en objet. Rappelez-vous que le prototype est comme la "recette" pour créer un objet.
+    D'un sens, la recette de Bird comprend maintenant tous les "ingrédients" clés d'Animal.
+
+ * Use isPrototypeOf to check the prototype of instance.
+
+ * Use  Object.create  to make two instances of Animal named duck and beagle.
+
  */
