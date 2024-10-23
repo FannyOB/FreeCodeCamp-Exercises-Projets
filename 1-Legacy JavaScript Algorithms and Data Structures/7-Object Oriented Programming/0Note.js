@@ -34,4 +34,11 @@
 
  * Use  Object.create  to make two instances of Animal named duck and beagle.
 
+ * Use mixin : Pour les objets non liés, il est préférable d'utiliser des mixins. Un mixin permet à d'autres objets d'utiliser une collection de fonctions.
+    
+ * Use closure : La façon la plus simple de rendre cette propriété publique privée est de créer une variable dans la fonction constructeur. Cela modifie la portée de cette variable pour être à l'intérieur de la fonction constructeur par rapport à la fonction disponible globalement. 
+    De cette façon, la variable n'est accessible et modifiée que par des méthodes également au sein de la fonction constructeur.
+
+ *
+
  */
