@@ -1,5 +1,6 @@
 /**
  * Understand Own Properties
+ * 
 In the following example, the Bird constructor defines two properties: name and numLegs:
 
 function Bird(name) {

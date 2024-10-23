@@ -1,5 +1,6 @@
 /**
  * Use Prototype Properties to Reduce Duplicate Code
+ * 
 Since numLegs will probably have the same value for all instances of Bird, 
 you essentially have a duplicated variable numLegs inside each Bird instance.
 This may not be an issue when there are only two instances, but imagine if there are millions of instances.
